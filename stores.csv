@@ -1,0 +1,76 @@
+store_id,store_name,city,country,opening_date
+ST-1,Apple Store Fifth Avenue,New York,USA,2006-05-19
+ST-10,Apple Store Union Square,San Francisco,USA,2016-05-19
+ST-11,Apple Store Michigan Avenue,Chicago,USA,2003-10-20
+ST-12,Apple Store Regent Street,London,UK,2004-11-20
+ST-13,Apple Store Covent Garden,London,UK,2010-07-30
+ST-14,Apple Store Dubai Mall,Dubai,UAE,2015-10-29
+ST-15,Apple Store Marina Bay Sands,Singapore,Singapore,2010-11-20
+ST-16,Apple Store Sydney,Sydney,Australia,2008-06-19
+ST-17,Apple Store Shibuya,Tokyo,Japan,2005-07-02
+ST-18,Apple Store Kurfürstendamm,Berlin,Germany,2013-05-03
+ST-19,Apple Store Opera,Paris,France,2010-07-03
+ST-2,Apple Store Piazza Liberty,Milan,Italy,2018-07-26
+ST-20,Apple Store IFC Mall,Shanghai,China,2010-09-23
+ST-21,Apple Store Omotesando,Tokyo,Japan,2014-06-13
+ST-22,Apple Store Orchard Road,Singapore,Singapore,2017-05-27
+ST-23,Apple Store 16,City 16,USA,2015-04-18
+ST-24,Apple Store 17,City 17,UK,2016-05-21
+ST-25,Apple Store 18,City 18,Japan,2017-06-24
+ST-26,Apple Store 19,City 19,USA,2018-07-27
+ST-27,Apple Store 20,City 20,UK,2019-08-02
+ST-28,Apple Store 21,City 21,Japan,2000-09-05
+ST-29,Apple Store 22,City 22,USA,2001-10-08
+ST-3,Apple Store 23,City 23,UK,2002-11-11
+ST-30,Apple Store 24,City 24,Japan,2003-12-14
+ST-31,Apple Store 25,City 25,USA,2004-01-17
+ST-32,Apple Store 26,City 26,UK,2005-02-20
+ST-33,Apple Store 27,City 27,Japan,2006-03-23
+ST-34,Apple Store 28,City 28,USA,2007-04-26
+ST-35,Apple Store 29,City 29,UK,2008-05-01
+ST-36,Apple Store 30,City 30,Japan,2009-06-04
+ST-37,Apple Store 31,City 31,USA,2010-07-07
+ST-38,Apple Store 32,City 32,UK,2011-08-10
+ST-39,Apple Store 33,City 33,Japan,2012-09-13
+ST-4,Apple Store 34,City 34,USA,2013-10-16
+ST-40,Apple Store 35,City 35,UK,2014-11-19
+ST-41,Apple Store 36,City 36,Japan,2015-12-22
+ST-42,Apple Store 37,City 37,USA,2016-01-25
+ST-43,Apple Store 38,City 38,UK,2017-02-28
+ST-44,Apple Store 39,City 39,Japan,2018-03-03
+ST-45,Apple Store 40,City 40,USA,2019-04-06
+ST-46,Apple Store 41,City 41,UK,2000-05-09
+ST-47,Apple Store 42,City 42,Japan,2001-06-12
+ST-48,Apple Store 43,City 43,USA,2002-07-15
+ST-49,Apple Store 44,City 44,UK,2003-08-18
+ST-5,Apple Store 45,City 45,Japan,2004-09-21
+ST-50,Apple Store 46,City 46,USA,2005-10-24
+ST-51,Apple Store 47,City 47,UK,2006-11-27
+ST-52,Apple Store 48,City 48,Japan,2007-12-02
+ST-53,Apple Store 49,City 49,USA,2008-01-05
+ST-54,Apple Store 50,City 50,UK,2009-02-08
+ST-55,Apple Store 51,City 51,Japan,2010-03-11
+ST-56,Apple Store 52,City 52,USA,2011-04-14
+ST-57,Apple Store 53,City 53,UK,2012-05-17
+ST-58,Apple Store 54,City 54,Japan,2013-06-20
+ST-59,Apple Store 55,City 55,USA,2014-07-23
+ST-6,Apple Store 56,City 56,UK,2015-08-26
+ST-60,Apple Store 57,City 57,Japan,2016-09-01
+ST-61,Apple Store 58,City 58,USA,2017-10-04
+ST-62,Apple Store 59,City 59,UK,2018-11-07
+ST-63,Apple Store 60,City 60,Japan,2019-12-10
+ST-64,Apple Store 61,City 61,USA,2000-01-13
+ST-7,Apple Store 62,City 62,UK,2001-02-16
+ST-8,Apple Store 63,City 63,Japan,2002-03-19
+ST-9,Apple Store 64,City 64,USA,2003-04-22
+ST-65,Apple Store Extra 65,Extra City 65,USA,2010-06-19
+ST-66,Apple Store Extra 66,Extra City 66,Canada,2011-07-21
+ST-67,Apple Store Extra 67,Extra City 67,USA,2012-08-23
+ST-68,Apple Store Extra 68,Extra City 68,Canada,2013-09-25
+ST-69,Apple Store Extra 69,Extra City 69,USA,2014-10-27
+ST-70,Apple Store Extra 70,Extra City 70,Canada,2015-11-01
+ST-71,Apple Store Extra 71,Extra City 71,USA,2016-12-03
+ST-72,Apple Store Extra 72,Extra City 72,Canada,2017-01-05
+ST-73,Apple Store Extra 73,Extra City 73,USA,2018-02-07
+ST-74,Apple Store Extra 74,Extra City 74,Canada,2019-03-09
+ST-75,Apple Store Extra 75,Extra City 75,USA,2005-04-11
